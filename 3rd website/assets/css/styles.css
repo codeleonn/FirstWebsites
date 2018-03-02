@@ -1,0 +1,13 @@
+#vid-bg {
+  text-align:center;
+}
+
+#vid-bg iframe {
+  width:90%;
+  height:600px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  color:red;
+}
+
